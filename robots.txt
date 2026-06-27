@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /checkout
+Disallow: /confirmation
+Disallow: /trips
+Disallow: /vault
+Disallow: /settings
+Disallow: /family
+Disallow: /memory
+
+Sitemap: https://levgonepal.app/sitemap.xml
