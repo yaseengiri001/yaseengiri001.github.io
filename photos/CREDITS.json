@@ -407,5 +407,37 @@
     "author": "Carsten.nebel",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/gokyo-lakes.jpg",
+    "source": "Wikimedia Commons, File:Gokyo_Ri_summit,_Gokyo_Lake,_Nepal,_Himalayas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gokyo_Ri_summit,_Gokyo_Lake,_Nepal,_Himalayas.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "public/photos/treks/upper-mustang.jpg",
+    "source": "Wikimedia Commons, File:Lomangthang.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lomangthang.jpg",
+    "author": "Nirojsedhai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/khopra-danda.jpg",
+    "source": "Wikimedia Commons, File:Annapurna_South-4588.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Annapurna_South-4588.jpg",
+    "author": "Bijay Chaurasia",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/kanchenjunga-bc.jpg",
+    "source": "Wikimedia Commons, File:Kangchenjunga_PangPema.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Kangchenjunga_PangPema.JPG",
+    "author": "Tomabarker",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
   }
 ]
