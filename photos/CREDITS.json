@@ -178,57 +178,57 @@
   },
   {
     "file": "public/photos/bundles/luxury-himalayan.jpg",
-    "source": "Wikimedia Commons - File:Ama Dablam, Nepal.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Ama_Dablam,_Nepal.jpg",
+    "source": "Wikimedia Commons, File:Himalayas,_Ama_Dablam,_Nepal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Himalayas,_Ama_Dablam,_Nepal.jpg",
     "author": "Vyacheslav Argenberg",
     "license": "CC BY 4.0",
     "license_url": "https://creativecommons.org/licenses/by/4.0"
   },
   {
     "file": "public/photos/bundles/family-nepal.jpg",
-    "source": "Wikimedia Commons - File:A male wild elephant (Ronaldo) at the Elephant Breeding Center in Chitwan National Park.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:A_male_wild_elephant_named_%22Ronaldo%22_at_the_Elephant_Breeding_Center_in_Chitwan_National_Park.jpg",
-    "author": "Shadow Ayush",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+    "source": "Wikimedia Commons, File:Phewa_lake,_Pokhara.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Phewa_lake,_Pokhara.jpg",
+    "author": "Jmhullot",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   {
     "file": "public/photos/bundles/trek-ready.jpg",
-    "source": "Wikimedia Commons - File:Namche Bazaar, Nepal.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Namche_Bazaar,_Nepal.jpg",
+    "source": "Wikimedia Commons, File:Muktinath_Valley,_View_of_Thorong_La_Pass,_Mountains,_Nepal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Muktinath_Valley,_View_of_Thorong_La_Pass,_Mountains,_Nepal.jpg",
     "author": "Vyacheslav Argenberg",
     "license": "CC BY 4.0",
     "license_url": "https://creativecommons.org/licenses/by/4.0"
   },
   {
     "file": "public/photos/bundles/weekend-escape.jpg",
-    "source": "Wikimedia Commons - File:Dhulikhel as seen from Talu dada.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Dhulikhel_as_seen_from_Talu_dada.jpg",
-    "author": "Rameshjarvis",
+    "source": "Wikimedia Commons, File:NClark-2017-1-15.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NClark-2017-1-15.jpg",
+    "author": "Moonbeaver",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   {
     "file": "public/photos/bundles/budget-backpacker.jpg",
-    "source": "Wikimedia Commons - File:Kathmandu, Nepal, Thamel streets.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Kathmandu,_Nepal,_Thamel_streets.jpg",
-    "author": "Vyacheslav Argenberg",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0"
+    "source": "Wikimedia Commons, File:Thamel_at_night_-_Kathmandu,_Nepal_-_panoramio_(1).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thamel_at_night_-_Kathmandu,_Nepal_-_panoramio_(1).jpg",
+    "author": "Sergey Ashmarin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   {
     "file": "public/photos/bundles/expat-starter.jpg",
-    "source": "Wikimedia Commons - File:Panoramic view of Patan Durbar Square.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Patan_Durbar_Square.jpg",
-    "author": "Nrik kiran",
+    "source": "Wikimedia Commons, File:Boudhanath_stupa_,_Kathmandu,_Nepal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Boudhanath_stupa_,_Kathmandu,_Nepal.jpg",
+    "author": "Sumitbhatt222",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   {
     "file": "public/photos/bundles/land-in-nepal.jpg",
-    "source": "Wikimedia Commons - File:View of Kathmandu Valley-070A1871.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:View_of_Kathmandu_Valley-070A1871.jpg",
-    "author": "Bijay Chaurasia",
+    "source": "Wikimedia Commons, File:Swayambhunath_2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Swayambhunath_2018.jpg",
+    "author": "Nabin K. Sapkota",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
@@ -261,6 +261,150 @@
     "source": "Wikimedia Commons, File:Chitwan swamp.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Chitwan_swamp.jpg",
     "author": "Vadim Tolbatov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/places/kathmandu-durbar.jpg",
+    "source": "Wikimedia Commons, File:Basantapurpalace.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Basantapurpalace.JPG",
+    "author": "Artha at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/places/pokhara-lakeside.jpg",
+    "source": "Wikimedia Commons, File:Phewa_lake,_Pokhara.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Phewa_lake,_Pokhara.jpg",
+    "author": "Jmhullot",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/places/bhaktapur.jpg",
+    "source": "Wikimedia Commons, File:View_of_Bhaktapur_Durbar_Square.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:View_of_Bhaktapur_Durbar_Square.jpg",
+    "author": "Bikram Pratap Singh",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/places/lumbini.jpg",
+    "source": "Wikimedia Commons, File:BRP_Lumbini_Mayadevi_temple.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BRP_Lumbini_Mayadevi_temple.jpg",
+    "author": "Bibek Raj Pandeya",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/places/namche-bazaar.jpg",
+    "source": "Wikimedia Commons, File:Front_view_of_the_iconic_Tengboche_Monastery_in_Nepal,_on_the_route_of_Everest_Base_camp_trek,_photographed_on_November_27,_2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_iconic_Tengboche_Monastery_in_Nepal,_on_the_route_of_Everest_Base_camp_trek,_photographed_on_November_27,_2023.jpg",
+    "author": "Billjones94",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0"
+  },
+  {
+    "file": "public/photos/places/dal-bhat.jpg",
+    "source": "Wikimedia Commons, File:Momo_nepal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Momo_nepal.jpg",
+    "author": "Kushal Goyal",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/places/momo.jpg",
+    "source": "Wikimedia Commons, File:Momo_nepal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Momo_nepal.jpg",
+    "author": "Kushal Goyal",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/places/boudhanath.jpg",
+    "source": "Wikimedia Commons, File:Boudhanath_stupa_,_Kathmandu,_Nepal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Boudhanath_stupa_,_Kathmandu,_Nepal.jpg",
+    "author": "Sumitbhatt222",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/places/prayer-flags.jpg",
+    "source": "Wikimedia Commons, File:Muktinath_Valley,_View_of_Thorong_La_Pass,_Mountains,_Nepal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Muktinath_Valley,_View_of_Thorong_La_Pass,_Mountains,_Nepal.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "public/photos/places/festival.jpg",
+    "source": "Wikimedia Commons, File:Bisket_Jatra_VIbes.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bisket_Jatra_VIbes.jpg",
+    "author": "Sushan Mool",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/places/paragliding-pokhara.jpg",
+    "source": "Wikimedia Commons, File:Sunset_flying_above_Himalayas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sunset_flying_above_Himalayas.jpg",
+    "author": "Q-lieb-in",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/places/poon-hill-sunrise.jpg",
+    "source": "Wikimedia Commons, File:Poon_hill_sunrise.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Poon_hill_sunrise.jpg",
+    "author": "Thapaliyashreeram",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/places/phoksundo-lake.jpg",
+    "source": "Wikimedia Commons, File:Bathymetric_Map_of_Phoksundo_Lake.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bathymetric_Map_of_Phoksundo_Lake.jpg",
+    "author": "Government of Nepal, Ministry of Energy, Water Resources and Irrigation, Depa…",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "public/photos/places/suspension-bridge.jpg",
+    "source": "Wikimedia Commons, File:Under_stars_and_snows.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Under_stars_and_snows.jpg",
+    "author": "Ummidnp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/places/rhododendron-forest.jpg",
+    "source": "Wikimedia Commons, File:Rhododendron_arboreum_subsp._nilagiricum_(1).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rhododendron_arboreum_subsp._nilagiricum_(1).jpg",
+    "author": "Marcus334",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "file": "public/photos/places/gokyo-lakes.jpg",
+    "source": "Wikimedia Commons, File:Gokyo_Ri_summit,_Gokyo_Lake,_Nepal,_Himalayas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gokyo_Ri_summit,_Gokyo_Lake,_Nepal,_Himalayas.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "public/photos/places/thamel-night.jpg",
+    "source": "Wikimedia Commons, File:Thamel_at_night_-_Kathmandu,_Nepal_-_panoramio_(1).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thamel_at_night_-_Kathmandu,_Nepal_-_panoramio_(1).jpg",
+    "author": "Sergey Ashmarin",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/places/annapurna-sanctuary.jpg",
+    "source": "Wikimedia Commons, File:Machapuchare_close-up_of_summit_ridge.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Machapuchare_close-up_of_summit_ridge.jpg",
+    "author": "Carsten.nebel",
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   }
