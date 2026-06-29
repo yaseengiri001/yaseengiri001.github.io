@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/3ak_69xhkr3zg.css","style"]
-:HL["/_next/static/chunks/13nulzilugzcs.css","style"]
+:HL["/_next/static/chunks/073-37zecq_43.css","style"]
 :HL["/_next/static/media/23b7a97ae3b5c134-s.p.226pwps5o-gq_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/54fc36028e2bb174-s.p.20jfceqj9zyw9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/68cf7a9643a0147c-s.p.3ye-whi9fpsfo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 :HL["/_next/static/media/b0db33b4a6649cdd-s.p.0y0w7afv-0ok6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/effe91970fc4db64-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/photos/heroes/trekker.jpg","image",{"imageSrcSet":"/photos/heroes/trekker-480.webp 480w, /photos/heroes/trekker-768.webp 768w, /photos/heroes/trekker-1200.webp 1200w, /photos/heroes/trekker-1600.webp 1600w","imageSizes":"100vw","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"m","param":null,"prefetchHints":0,"slots":{"children":{"name":"mode","param":{"type":"d","key":"trekker","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"FJ3jsRjF3AoEDwYV0qRMi"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"m","param":null,"prefetchHints":0,"slots":{"children":{"name":"mode","param":{"type":"d","key":"trekker","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"zKUyzmBSDCK_L32-9F8AK"}

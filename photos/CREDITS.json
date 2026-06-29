@@ -239,5 +239,29 @@
     "author": "Vyacheslav Argenberg",
     "license": "CC BY 4.0",
     "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "public/photos/lux/everest-heli-breakfast.jpg",
+    "source": "Wikimedia Commons, File:Tengboche, Mountains of Nepal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tengboche,_Mountains_of_Nepal.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "public/photos/lux/mustang-private-expedition.jpg",
+    "source": "Wikimedia Commons, File:Lomangthang.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lomangthang.jpg",
+    "author": "Nirojsedhai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/lux/chitwan-private-safari.jpg",
+    "source": "Wikimedia Commons, File:Chitwan swamp.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chitwan_swamp.jpg",
+    "author": "Vadim Tolbatov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   }
 ]
