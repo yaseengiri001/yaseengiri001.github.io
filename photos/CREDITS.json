@@ -583,5 +583,77 @@
     "author": "Jason7825 at en.wikipedia",
     "license": "Public domain",
     "license_url": ""
+  },
+  {
+    "file": "public/photos/activities/pokhara-paragliding.jpg",
+    "source": "Wikimedia Commons, File:Paragliding_1350361.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Paragliding_1350361.jpg",
+    "author": "Nevit Dilmen (talk)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/activities/chitwan-jungle-safari.jpg",
+    "source": "Wikimedia Commons, File:Chitwan_swamp.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chitwan_swamp.jpg",
+    "author": "Vadim Tolbatov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/trishuli-rafting.jpg",
+    "source": "Wikimedia Commons, File:Upstream_view_Colorado_River_approximatly_Mile_59.0.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Upstream_view_Colorado_River_approximatly_Mile_59.0.jpg",
+    "author": "RRFWTommartin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/bhotekoshi-bungee.jpg",
+    "source": "Wikimedia Commons, File:The_Kawarau_bridge.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Kawarau_bridge.jpg",
+    "author": "Steve Jem Copley",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "public/photos/activities/everest-mountain-flight.jpg",
+    "source": "Wikimedia Commons, File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
+    "author": "Rdevany",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/activities/pokhara-zipline.jpg",
+    "source": "Wikimedia Commons, File:Texas_Zip_liner_5430.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Texas_Zip_liner_5430.JPG",
+    "author": "ZipTheUsa",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/activities/kathmandu-heritage-tour.jpg",
+    "source": "Wikimedia Commons, File:Basantapurpalace.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Basantapurpalace.JPG",
+    "author": "Artha at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/activities/phewa-boating.jpg",
+    "source": "Wikimedia Commons, File:Phewa_lake,_Pokhara.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Phewa_lake,_Pokhara.jpg",
+    "author": "Jmhullot",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/activities/everest-heli-tour.jpg",
+    "source": "Wikimedia Commons, File:Kala_Patthar_Mountain,_Nepal,_Asia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kala_Patthar_Mountain,_Nepal,_Asia.jpg",
+    "author": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
   }
 ]
