@@ -8,4 +8,4 @@ Disallow: /settings
 Disallow: /family
 Disallow: /memory
 
-Sitemap: https://levgonepal.app/sitemap.xml
+Sitemap: https://yaseengiri001.github.io/sitemap.xml
