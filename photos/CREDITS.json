@@ -361,14 +361,6 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   {
-    "file": "public/photos/places/phoksundo-lake.jpg",
-    "source": "Wikimedia Commons, File:Bathymetric_Map_of_Phoksundo_Lake.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bathymetric_Map_of_Phoksundo_Lake.jpg",
-    "author": "Government of Nepal, Ministry of Energy, Water Resources and Irrigation, Depa…",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0"
-  },
-  {
     "file": "public/photos/places/suspension-bridge.jpg",
     "source": "Wikimedia Commons, File:Under_stars_and_snows.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Under_stars_and_snows.jpg",
@@ -489,14 +481,6 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
   },
   {
-    "file": "public/photos/gear/headlamp-rechargeable.jpg",
-    "source": "Wikimedia Commons, File:Scooter_headlights.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Scooter_headlights.jpg",
-    "author": "Rob Brewer from Bristol, England",
-    "license": "CC BY-SA 2.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
-  },
-  {
     "file": "public/photos/gear/down-mittens.jpg",
     "source": "Wikimedia Commons, File:Southern_Sami_Mittens_Norway.JPG",
     "page": "https://commons.wikimedia.org/wiki/File:Southern_Sami_Mittens_Norway.JPG",
@@ -521,34 +505,10 @@
     "license_url": ""
   },
   {
-    "file": "public/photos/gear/power-bank-20k.jpg",
-    "source": "Wikimedia Commons, File:Car_Battery_Charger.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Car_Battery_Charger.jpg",
-    "author": "Tatu Kosonen",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
-  },
-  {
-    "file": "public/photos/gear/water-purifier-bottle.jpg",
-    "source": "Wikimedia Commons, File:History_and_Institutions-_with_illustrations_and_sketches_of_banking,_wholesale_manufacturing_and_professional_interests_of_Toledo,_Ohio_-_DPLA_-_92f742d33d4dcde003ea49375198e699_(page_83)_(cropped).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:History_and_Institutions-_with_illustrations_and_sketches_of_banking,_wholesale_manufacturing_and_professional_interests_of_Toledo,_Ohio_-_DPLA_-_92f742d33d4dcde003ea49375198e699_(page_83)_(cropped).jpg",
-    "author": "Published by Toledo Commercial",
-    "license": "Public domain",
-    "license_url": ""
-  },
-  {
     "file": "public/photos/gear/first-aid-altitude-kit.jpg",
     "source": "Wikimedia Commons, File:British_Red_Cross_First_Aid_Kits.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:British_Red_Cross_First_Aid_Kits.jpg",
     "author": "Owain Davies",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
-  },
-  {
-    "file": "public/photos/gear/gopro-hero-kit.jpg",
-    "source": "Wikimedia Commons, File:Canon_HF10_front.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Canon_HF10_front.jpg",
-    "author": "Nebrot",
     "license": "CC BY-SA 3.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
   },
@@ -577,14 +537,6 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   {
-    "file": "public/photos/gear/child-carrier.jpg",
-    "source": "Wikimedia Commons, File:Baby_pram.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Baby_pram.jpg",
-    "author": "Jason7825 at en.wikipedia",
-    "license": "Public domain",
-    "license_url": ""
-  },
-  {
     "file": "public/photos/activities/pokhara-paragliding.jpg",
     "source": "Wikimedia Commons, File:Paragliding_1350361.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Paragliding_1350361.jpg",
@@ -601,34 +553,10 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   },
   {
-    "file": "public/photos/activities/trishuli-rafting.jpg",
-    "source": "Wikimedia Commons, File:Upstream_view_Colorado_River_approximatly_Mile_59.0.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Upstream_view_Colorado_River_approximatly_Mile_59.0.jpg",
-    "author": "RRFWTommartin",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
-  },
-  {
-    "file": "public/photos/activities/bhotekoshi-bungee.jpg",
-    "source": "Wikimedia Commons, File:The_Kawarau_bridge.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Kawarau_bridge.jpg",
-    "author": "Steve Jem Copley",
-    "license": "CC BY-SA 2.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
-  },
-  {
     "file": "public/photos/activities/everest-mountain-flight.jpg",
     "source": "Wikimedia Commons, File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
     "author": "Rdevany",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
-  },
-  {
-    "file": "public/photos/activities/pokhara-zipline.jpg",
-    "source": "Wikimedia Commons, File:Texas_Zip_liner_5430.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Texas_Zip_liner_5430.JPG",
-    "author": "ZipTheUsa",
     "license": "CC BY-SA 3.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
   },
@@ -655,5 +583,149 @@
     "author": "Vyacheslav Argenberg",
     "license": "CC BY 4.0",
     "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "public/photos/treks/annapurna-base-camp.jpg",
+    "source": "Wikimedia Commons, File:Evening view of Annapurna Base Camp.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Evening_view_of_Annapurna_Base_Camp.jpg",
+    "author": "Mithunkunwar9",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/everest-three-passes.jpg",
+    "source": "Wikimedia Commons, File:Everest, Lhotse and Makalu.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Everest,_Lhotse_and_Makalu.jpg",
+    "author": "Nirojsedhai",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/pikey-peak.jpg",
+    "source": "Wikimedia Commons, File:First Light over the Himalayas from Pikey Peak, Solukhumbu.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:First_Light_over_the_Himalayas_from_Pikey_Peak,_Solukhumbu.jpg",
+    "author": "Sunuwargr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/tilicho-lake.jpg",
+    "source": "Wikimedia Commons, File:Peak Tilicho and Lake Tilicho.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Peak_Tilicho_and_Lake_Tilicho.jpg",
+    "author": "Solundir",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/gosainkunda-lakes.jpg",
+    "source": "Wikimedia Commons, File:Lake Gosaikunda.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lake_Gosaikunda.jpg",
+    "author": "Sergey Pesterev",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/island-peak.jpg",
+    "source": "Wikimedia Commons, File:Island Peak (Imja Tse) from Dingboche Village.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Island_Peak_(Imja_Tse)_from_Dingboche_Village.jpg",
+    "author": "Rohit Sharma",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/upper-dolpo.jpg",
+    "source": "Wikimedia Commons, File:Shey-Phoksundo Lake in Dolpa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shey-Phoksundo_Lake_in_Dolpa.jpg",
+    "author": "Sunuwargr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/places/phoksundo-lake.jpg",
+    "source": "Wikimedia Commons, File:Shey-Phoksundo Lake in Dolpa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shey-Phoksundo_Lake_in_Dolpa.jpg",
+    "author": "Sunuwargr",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/tsum-valley.jpg",
+    "source": "Wikimedia Commons, File:Tsum Valley.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tsum_Valley.jpg",
+    "author": "Tsephu",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "file": "public/photos/treks/mera-peak.jpg",
+    "source": "Wikimedia Commons, File:Mera Peak Photowalk 04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mera_Peak_Photowalk_04.jpg",
+    "author": "Nabin K. Sapkota",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/makalu-base-camp.jpg",
+    "source": "Wikimedia Commons, File:Makalu and Chamlang.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Makalu_and_Chamlang.jpg",
+    "author": "Craig Taylor",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "public/photos/activities/bardiya-tiger-safari.jpg",
+    "source": "Wikimedia Commons, File:Bengal Tiger Bardiya.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bengal_Tiger_Bardiya.jpg",
+    "author": "Stefan van den Akker",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "file": "public/photos/activities/trishuli-rafting.jpg",
+    "source": "Wikimedia Commons, File:Trishuli River Rafting, Nepal-3118.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Trishuli_River_Rafting,_Nepal-3118.jpg",
+    "author": "Bijay Chaurasia",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/ilam-tea-gardens.jpg",
+    "source": "Wikimedia Commons, File:Kanyam Tea Garden, Illam.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kanyam_Tea_Garden,_Illam.jpg",
+    "author": "Robic Upadhayay",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/koshi-tappu-birdwatching.jpg",
+    "source": "Wikimedia Commons, File:Shrike in sunset.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shrike_in_sunset.jpg",
+    "author": "Prasan Shrestha",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/bhaktapur-pottery-workshop.jpg",
+    "source": "Wikimedia Commons, File:Bhaktapur, Nepal (28252950265).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bhaktapur,_Nepal_(28252950265).jpg",
+    "author": "Urbain J. Kinet",
+    "license": "No restrictions",
+    "license_url": "https://www.flickr.com/commons/usage/"
+  },
+  {
+    "file": "public/photos/activities/janakpur-mithila-art.jpg",
+    "source": "Wikimedia Commons, File:Janaki Temple, Janakpur-September 22, 2016-IMG 7493.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Janaki_Temple,_Janakpur-September_22,_2016-IMG_7493.jpg",
+    "author": "Bijay chaurasia",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/kopan-meditation-course.jpg",
+    "source": "Wikimedia Commons, File:Kopan Monastery Nepal (31382220214).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kopan_Monastery_Nepal_(31382220214).jpg",
+    "author": "Gisela Giardino from Buenos Aires, Argentina",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
   }
 ]
