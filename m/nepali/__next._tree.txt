@@ -1,5 +1,5 @@
 :HL["/_next/static/chunks/0sp-hff7y62sn.css","style"]
-:HL["/_next/static/chunks/18wx1x1dnx5um.css","style"]
+:HL["/_next/static/chunks/3z9_vsarn6q3b.css","style"]
 :HL["/_next/static/media/0e70a8c5ff3cd4cf-s.p.05lpjjsnz0gd-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/23b7a97ae3b5c134-s.p.226pwps5o-gq_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/453f758e2ed7ecd1-s.p.00vnw57clamoq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -10,4 +10,4 @@
 :HL["/_next/static/media/a343f882a40d2cc9-s.p.1sj6eobyi31rd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/effe91970fc4db64-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/photos/heroes/nepali.jpg","image",{"imageSrcSet":"/photos/heroes/nepali-480.webp 480w, /photos/heroes/nepali-768.webp 768w, /photos/heroes/nepali-1200.webp 1200w, /photos/heroes/nepali-1600.webp 1600w","imageSizes":"100vw","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"m","param":null,"prefetchHints":0,"slots":{"children":{"name":"mode","param":{"type":"d","key":"nepali","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"tf3iWsG21Lme7agz6HGmE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"m","param":null,"prefetchHints":0,"slots":{"children":{"name":"mode","param":{"type":"d","key":"nepali","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"fzoq9jMxReqhwdxqF5cj_"}
