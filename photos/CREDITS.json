@@ -1407,5 +1407,61 @@
     "author": "Anil Simkhada",
     "license": "CC BY-SA 3.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "file": "public/photos/treks/chulu-east.jpg",
+    "source": "Wikimedia Commons, File:Chulu east peak .jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chulu_east_peak_.jpg",
+    "author": "Prem8848",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/treks/sikles-eco-trail.jpg",
+    "source": "Wikimedia Commons, File:Siklesh Village.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Siklesh_Village.jpg",
+    "author": "Sarojpandey",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/tatopani-hot-springs.jpg",
+    "source": "Wikimedia Commons, File:Hot Spring at Tatopani (4523585441).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_Spring_at_Tatopani_(4523585441).jpg",
+    "author": "Greg Willis from Denver, CO, usa",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "file": "public/photos/activities/siddha-gufa-caving.jpg",
+    "source": "Wikimedia Commons, File:At the opening of Siddha cave.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:At_the_opening_of_Siddha_cave.jpg",
+    "author": "Shadow Ayush",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/gokarna-forest-golf.jpg",
+    "source": "Wikimedia Commons, File:Gokarneshwor Mahadev Temple Gokarna Kathmandu Nepal Rajesh Dhungana (7).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gokarneshwor_Mahadev_Temple_Gokarna_Kathmandu_Nepal_Rajesh_Dhungana_(7).jpg",
+    "author": "Rajesh Dhungana",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/honey-hunting-demonstration.jpg",
+    "source": "Wikimedia Commons, File:Honey hunting by Gurung Tribesman.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Honey_hunting_by_Gurung_Tribesman.jpg",
+    "author": "Kandelrashmi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "file": "public/photos/activities/vipassana-orientation.jpg",
+    "source": "Wikimedia Commons, File:Kirtipur Vipassana Center - Dhamma Kitti 1 May 2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kirtipur_Vipassana_Center_-_Dhamma_Kitti_1_May_2019.jpg",
+    "author": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0"
   }
 ]
